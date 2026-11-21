@@ -33,4 +33,4 @@ If the phone says the computer did not answer, check that the computer is on and
 
 ---
 
-© 2026 ShootChute. All rights reserved. Free to download and use; not to be copied, changed or resold.
+© 2026 Joseph Riehl. All rights reserved. ShootChute is free: download it, use it, and pass unchanged copies on. It may not be sold or presented under another name. The terms are in [LICENSE.txt](LICENSE.txt).

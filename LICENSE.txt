@@ -1,0 +1,12 @@
+ShootChute
+Copyright (c) 2026 Joseph Riehl. All rights reserved.
+
+ShootChute (the iPhone app and the computer app that receives its files) is free.
+You may download it, install it, use it for any purpose, and pass unchanged copies
+on to other people, at no charge.
+
+You may not sell it, charge for copies of it, or present it under another name or
+as your own work.
+
+It comes as it is, with no warranty of any kind. Use it at your own risk; the author
+is not liable for any loss or damage that comes from using it.
