@@ -31,6 +31,11 @@ ShootChute keeps running in the background and starts when you sign in. To see t
 
 If the phone says the computer did not answer, check that the computer is on and that the phone is on the same Wi-Fi or has Tailscale switched on.
 
+## Help and privacy
+
+- **Something not working, or a question:** [open an issue](https://github.com/slowgojoe/shootchute-downloads/issues) and say what you tried and what you saw.
+- **Privacy:** ShootChute collects nothing and sends your files only to your own computer. The [privacy policy](PRIVACY.md) has the details.
+
 ---
 
 © 2026 Joseph Riehl. All rights reserved. ShootChute is free: download it, use it, and pass unchanged copies on. It may not be sold or presented under another name. The terms are in [LICENSE.txt](LICENSE.txt).
